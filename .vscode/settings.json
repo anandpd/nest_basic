@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 17,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#001156",
+        "activityBar.activeBorder": "#fff",
+        "activityBarBadge.background": "#ff0000",
+        "statusBar.background": "#001156",
+        "tab.activeBorderTop": "#ffffff"
+    },
+    "editor.formatOnSave": true,
+    "editor.minimap.scale": 2,
+    "editor.cursorStyle": "line",
+    "workbench.colorTheme": "Xcode Default Dark"
+}
